@@ -1,0 +1,23 @@
+body{
+  background-image: url(drapeau.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: red;
+}
+
+h1{
+  color: turquoise;
+}
+
+ul{
+  text-align: center;
+  border: solid;
+  box-shadow: 6px 6px 6px 6px turquoise;
+ 
+}
+
+ol{
+  text-align: center;
+  border: solid;
+  box-shadow: 6px 6px 6px 6px turquoise;
+}
